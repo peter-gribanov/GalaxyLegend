@@ -40,7 +40,7 @@ close access for 1 hour before end the event.
 No one declares war. Declare war can only head of the clan:
 ghost404, Koshak, Ber. For a declaration of war, will be very painful beat.
 
-*<Here is a picture. What button to press is impossible>*
+![No one declares war](../images/no-open-wer.png)
 
 ## Reward
 
@@ -67,7 +67,7 @@ Similarly, however, are considered to be points scored personally you.
 
 Considered only victory. One defeat and the count is reset and set starts at 0.
 
-*<Here is a picture of the current account wins>*
+![Score wins](../images/score-wins.png)
 
 Independently perform this task difficult. This requires teamwork. So be sure
 to read the next section. At the end of the war, we get a lot of buns.
