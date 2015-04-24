@@ -22,12 +22,9 @@ This is the most important. The war started after the update server, ie at
 After the upgrade, the server starts the first battle, and every 4 hours,
 repeated battle. Ie schedule server time:
 
-* 00:00;
-* 04:00;
-* 08:00;
-* 12:00;
-* 16:00;
-* 20:00.
+* Saturday: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00;
+* Sunday: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00;
+* Monday: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00, 22:30.
 
 Next, I will describe why a schedule. You need to enter the game for 5-10
 minutes before the scheduled time and wait for instructions in the game chat.
